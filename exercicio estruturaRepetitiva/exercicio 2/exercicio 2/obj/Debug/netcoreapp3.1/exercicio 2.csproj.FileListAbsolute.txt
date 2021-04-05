@@ -1,0 +1,13 @@
+F:\ws-vs2019\Primeiro\exercicio estruturaRepetitiva\exercicio 2\exercicio 2\bin\Debug\netcoreapp3.1\exercicio 2.exe
+F:\ws-vs2019\Primeiro\exercicio estruturaRepetitiva\exercicio 2\exercicio 2\bin\Debug\netcoreapp3.1\exercicio 2.deps.json
+F:\ws-vs2019\Primeiro\exercicio estruturaRepetitiva\exercicio 2\exercicio 2\bin\Debug\netcoreapp3.1\exercicio 2.runtimeconfig.json
+F:\ws-vs2019\Primeiro\exercicio estruturaRepetitiva\exercicio 2\exercicio 2\bin\Debug\netcoreapp3.1\exercicio 2.runtimeconfig.dev.json
+F:\ws-vs2019\Primeiro\exercicio estruturaRepetitiva\exercicio 2\exercicio 2\bin\Debug\netcoreapp3.1\exercicio 2.dll
+F:\ws-vs2019\Primeiro\exercicio estruturaRepetitiva\exercicio 2\exercicio 2\bin\Debug\netcoreapp3.1\exercicio 2.pdb
+F:\ws-vs2019\Primeiro\exercicio estruturaRepetitiva\exercicio 2\exercicio 2\obj\Debug\netcoreapp3.1\exercicio 2.csprojAssemblyReference.cache
+F:\ws-vs2019\Primeiro\exercicio estruturaRepetitiva\exercicio 2\exercicio 2\obj\Debug\netcoreapp3.1\exercicio 2.AssemblyInfoInputs.cache
+F:\ws-vs2019\Primeiro\exercicio estruturaRepetitiva\exercicio 2\exercicio 2\obj\Debug\netcoreapp3.1\exercicio 2.AssemblyInfo.cs
+F:\ws-vs2019\Primeiro\exercicio estruturaRepetitiva\exercicio 2\exercicio 2\obj\Debug\netcoreapp3.1\exercicio 2.csproj.CoreCompileInputs.cache
+F:\ws-vs2019\Primeiro\exercicio estruturaRepetitiva\exercicio 2\exercicio 2\obj\Debug\netcoreapp3.1\exercicio 2.dll
+F:\ws-vs2019\Primeiro\exercicio estruturaRepetitiva\exercicio 2\exercicio 2\obj\Debug\netcoreapp3.1\exercicio 2.pdb
+F:\ws-vs2019\Primeiro\exercicio estruturaRepetitiva\exercicio 2\exercicio 2\obj\Debug\netcoreapp3.1\exercicio 2.genruntimeconfig.cache
