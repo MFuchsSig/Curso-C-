@@ -21,15 +21,7 @@ namespace SalesWebMvc.Models
 
         }
 
-        internal static void Add(Seller seller)
-        {
-            throw new NotImplementedException();
-        }
-
-        internal static double Sum(Seller seller)
-        {
-            throw new NotImplementedException();
-        }
+        
 
         public Seller(int id, string name, string email, double baseSalary, DateTime birthDate, Department department)
         {
@@ -40,6 +32,11 @@ namespace SalesWebMvc.Models
             BirthDate = birthDate;
             Department = department;
         }
+
+        public Seller(int v1, string v2, string v3, DateTime dateTime, double v4, Department d1)
+        {
+        }
+
         public void AddSales(SalesRecord sr)
         {
             Sales.Add(sr);
