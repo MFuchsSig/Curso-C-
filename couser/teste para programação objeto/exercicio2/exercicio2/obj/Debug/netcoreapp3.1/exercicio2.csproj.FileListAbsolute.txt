@@ -1,0 +1,4 @@
+F:\ws-vs2019\Primeiro\couser\teste para programação objeto\exercicio2\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.csprojAssemblyReference.cache
+F:\ws-vs2019\Primeiro\couser\teste para programação objeto\exercicio2\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.AssemblyInfoInputs.cache
+F:\ws-vs2019\Primeiro\couser\teste para programação objeto\exercicio2\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.AssemblyInfo.cs
+F:\ws-vs2019\Primeiro\couser\teste para programação objeto\exercicio2\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.csproj.CoreCompileInputs.cache

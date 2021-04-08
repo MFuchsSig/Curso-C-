@@ -1,0 +1,13 @@
+C:\Users\Matheus\source\repos\trabalhandoComAquivos\trabalhandoComAquivos\bin\Debug\netcoreapp3.1\trabalhandoComAquivos.exe
+C:\Users\Matheus\source\repos\trabalhandoComAquivos\trabalhandoComAquivos\bin\Debug\netcoreapp3.1\trabalhandoComAquivos.deps.json
+C:\Users\Matheus\source\repos\trabalhandoComAquivos\trabalhandoComAquivos\bin\Debug\netcoreapp3.1\trabalhandoComAquivos.runtimeconfig.json
+C:\Users\Matheus\source\repos\trabalhandoComAquivos\trabalhandoComAquivos\bin\Debug\netcoreapp3.1\trabalhandoComAquivos.runtimeconfig.dev.json
+C:\Users\Matheus\source\repos\trabalhandoComAquivos\trabalhandoComAquivos\bin\Debug\netcoreapp3.1\trabalhandoComAquivos.dll
+C:\Users\Matheus\source\repos\trabalhandoComAquivos\trabalhandoComAquivos\bin\Debug\netcoreapp3.1\trabalhandoComAquivos.pdb
+C:\Users\Matheus\source\repos\trabalhandoComAquivos\trabalhandoComAquivos\obj\Debug\netcoreapp3.1\trabalhandoComAquivos.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\trabalhandoComAquivos\trabalhandoComAquivos\obj\Debug\netcoreapp3.1\trabalhandoComAquivos.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\trabalhandoComAquivos\trabalhandoComAquivos\obj\Debug\netcoreapp3.1\trabalhandoComAquivos.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\trabalhandoComAquivos\trabalhandoComAquivos\obj\Debug\netcoreapp3.1\trabalhandoComAquivos.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\trabalhandoComAquivos\trabalhandoComAquivos\obj\Debug\netcoreapp3.1\trabalhandoComAquivos.dll
+C:\Users\Matheus\source\repos\trabalhandoComAquivos\trabalhandoComAquivos\obj\Debug\netcoreapp3.1\trabalhandoComAquivos.pdb
+C:\Users\Matheus\source\repos\trabalhandoComAquivos\trabalhandoComAquivos\obj\Debug\netcoreapp3.1\trabalhandoComAquivos.genruntimeconfig.cache

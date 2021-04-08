@@ -1,0 +1,13 @@
+C:\Users\Matheus\source\repos\TopicosEspecieisDateTime\TopicosEspecieisDateTime\bin\Debug\netcoreapp3.1\TopicosEspecieisDateTime.exe
+C:\Users\Matheus\source\repos\TopicosEspecieisDateTime\TopicosEspecieisDateTime\bin\Debug\netcoreapp3.1\TopicosEspecieisDateTime.deps.json
+C:\Users\Matheus\source\repos\TopicosEspecieisDateTime\TopicosEspecieisDateTime\bin\Debug\netcoreapp3.1\TopicosEspecieisDateTime.runtimeconfig.json
+C:\Users\Matheus\source\repos\TopicosEspecieisDateTime\TopicosEspecieisDateTime\bin\Debug\netcoreapp3.1\TopicosEspecieisDateTime.runtimeconfig.dev.json
+C:\Users\Matheus\source\repos\TopicosEspecieisDateTime\TopicosEspecieisDateTime\bin\Debug\netcoreapp3.1\TopicosEspecieisDateTime.dll
+C:\Users\Matheus\source\repos\TopicosEspecieisDateTime\TopicosEspecieisDateTime\bin\Debug\netcoreapp3.1\TopicosEspecieisDateTime.pdb
+C:\Users\Matheus\source\repos\TopicosEspecieisDateTime\TopicosEspecieisDateTime\obj\Debug\netcoreapp3.1\TopicosEspecieisDateTime.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\TopicosEspecieisDateTime\TopicosEspecieisDateTime\obj\Debug\netcoreapp3.1\TopicosEspecieisDateTime.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\TopicosEspecieisDateTime\TopicosEspecieisDateTime\obj\Debug\netcoreapp3.1\TopicosEspecieisDateTime.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\TopicosEspecieisDateTime\TopicosEspecieisDateTime\obj\Debug\netcoreapp3.1\TopicosEspecieisDateTime.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\TopicosEspecieisDateTime\TopicosEspecieisDateTime\obj\Debug\netcoreapp3.1\TopicosEspecieisDateTime.dll
+C:\Users\Matheus\source\repos\TopicosEspecieisDateTime\TopicosEspecieisDateTime\obj\Debug\netcoreapp3.1\TopicosEspecieisDateTime.pdb
+C:\Users\Matheus\source\repos\TopicosEspecieisDateTime\TopicosEspecieisDateTime\obj\Debug\netcoreapp3.1\TopicosEspecieisDateTime.genruntimeconfig.cache

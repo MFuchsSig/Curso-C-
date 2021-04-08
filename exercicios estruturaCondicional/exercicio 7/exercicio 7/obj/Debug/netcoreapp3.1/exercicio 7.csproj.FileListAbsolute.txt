@@ -1,0 +1,13 @@
+F:\ws-vs2019\Primeiro\exercicios estruturaCondicional\exercicio 7\exercicio 7\bin\Debug\netcoreapp3.1\exercicio 7.exe
+F:\ws-vs2019\Primeiro\exercicios estruturaCondicional\exercicio 7\exercicio 7\bin\Debug\netcoreapp3.1\exercicio 7.deps.json
+F:\ws-vs2019\Primeiro\exercicios estruturaCondicional\exercicio 7\exercicio 7\bin\Debug\netcoreapp3.1\exercicio 7.runtimeconfig.json
+F:\ws-vs2019\Primeiro\exercicios estruturaCondicional\exercicio 7\exercicio 7\bin\Debug\netcoreapp3.1\exercicio 7.runtimeconfig.dev.json
+F:\ws-vs2019\Primeiro\exercicios estruturaCondicional\exercicio 7\exercicio 7\bin\Debug\netcoreapp3.1\exercicio 7.dll
+F:\ws-vs2019\Primeiro\exercicios estruturaCondicional\exercicio 7\exercicio 7\bin\Debug\netcoreapp3.1\exercicio 7.pdb
+F:\ws-vs2019\Primeiro\exercicios estruturaCondicional\exercicio 7\exercicio 7\obj\Debug\netcoreapp3.1\exercicio 7.csprojAssemblyReference.cache
+F:\ws-vs2019\Primeiro\exercicios estruturaCondicional\exercicio 7\exercicio 7\obj\Debug\netcoreapp3.1\exercicio 7.AssemblyInfoInputs.cache
+F:\ws-vs2019\Primeiro\exercicios estruturaCondicional\exercicio 7\exercicio 7\obj\Debug\netcoreapp3.1\exercicio 7.AssemblyInfo.cs
+F:\ws-vs2019\Primeiro\exercicios estruturaCondicional\exercicio 7\exercicio 7\obj\Debug\netcoreapp3.1\exercicio 7.csproj.CoreCompileInputs.cache
+F:\ws-vs2019\Primeiro\exercicios estruturaCondicional\exercicio 7\exercicio 7\obj\Debug\netcoreapp3.1\exercicio 7.dll
+F:\ws-vs2019\Primeiro\exercicios estruturaCondicional\exercicio 7\exercicio 7\obj\Debug\netcoreapp3.1\exercicio 7.pdb
+F:\ws-vs2019\Primeiro\exercicios estruturaCondicional\exercicio 7\exercicio 7\obj\Debug\netcoreapp3.1\exercicio 7.genruntimeconfig.cache

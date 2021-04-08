@@ -1,0 +1,13 @@
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExericioPropostoConjunto\ExericioPropostoConjunto\bin\Debug\netcoreapp3.1\ExericioPropostoConjunto.exe
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExericioPropostoConjunto\ExericioPropostoConjunto\bin\Debug\netcoreapp3.1\ExericioPropostoConjunto.deps.json
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExericioPropostoConjunto\ExericioPropostoConjunto\bin\Debug\netcoreapp3.1\ExericioPropostoConjunto.runtimeconfig.json
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExericioPropostoConjunto\ExericioPropostoConjunto\bin\Debug\netcoreapp3.1\ExericioPropostoConjunto.runtimeconfig.dev.json
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExericioPropostoConjunto\ExericioPropostoConjunto\bin\Debug\netcoreapp3.1\ExericioPropostoConjunto.dll
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExericioPropostoConjunto\ExericioPropostoConjunto\bin\Debug\netcoreapp3.1\ExericioPropostoConjunto.pdb
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExericioPropostoConjunto\ExericioPropostoConjunto\obj\Debug\netcoreapp3.1\ExericioPropostoConjunto.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExericioPropostoConjunto\ExericioPropostoConjunto\obj\Debug\netcoreapp3.1\ExericioPropostoConjunto.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExericioPropostoConjunto\ExericioPropostoConjunto\obj\Debug\netcoreapp3.1\ExericioPropostoConjunto.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExericioPropostoConjunto\ExericioPropostoConjunto\obj\Debug\netcoreapp3.1\ExericioPropostoConjunto.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExericioPropostoConjunto\ExericioPropostoConjunto\obj\Debug\netcoreapp3.1\ExericioPropostoConjunto.dll
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExericioPropostoConjunto\ExericioPropostoConjunto\obj\Debug\netcoreapp3.1\ExericioPropostoConjunto.pdb
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExericioPropostoConjunto\ExericioPropostoConjunto\obj\Debug\netcoreapp3.1\ExericioPropostoConjunto.genruntimeconfig.cache

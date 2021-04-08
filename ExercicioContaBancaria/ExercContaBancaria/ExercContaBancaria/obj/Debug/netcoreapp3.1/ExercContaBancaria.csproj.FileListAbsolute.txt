@@ -1,0 +1,13 @@
+F:\ws-vs2019\Primeiro\ExercicioContaBancaria\ExercContaBancaria\ExercContaBancaria\bin\Debug\netcoreapp3.1\ExercContaBancaria.exe
+F:\ws-vs2019\Primeiro\ExercicioContaBancaria\ExercContaBancaria\ExercContaBancaria\bin\Debug\netcoreapp3.1\ExercContaBancaria.deps.json
+F:\ws-vs2019\Primeiro\ExercicioContaBancaria\ExercContaBancaria\ExercContaBancaria\bin\Debug\netcoreapp3.1\ExercContaBancaria.runtimeconfig.json
+F:\ws-vs2019\Primeiro\ExercicioContaBancaria\ExercContaBancaria\ExercContaBancaria\bin\Debug\netcoreapp3.1\ExercContaBancaria.runtimeconfig.dev.json
+F:\ws-vs2019\Primeiro\ExercicioContaBancaria\ExercContaBancaria\ExercContaBancaria\bin\Debug\netcoreapp3.1\ExercContaBancaria.dll
+F:\ws-vs2019\Primeiro\ExercicioContaBancaria\ExercContaBancaria\ExercContaBancaria\bin\Debug\netcoreapp3.1\ExercContaBancaria.pdb
+F:\ws-vs2019\Primeiro\ExercicioContaBancaria\ExercContaBancaria\ExercContaBancaria\obj\Debug\netcoreapp3.1\ExercContaBancaria.csprojAssemblyReference.cache
+F:\ws-vs2019\Primeiro\ExercicioContaBancaria\ExercContaBancaria\ExercContaBancaria\obj\Debug\netcoreapp3.1\ExercContaBancaria.AssemblyInfoInputs.cache
+F:\ws-vs2019\Primeiro\ExercicioContaBancaria\ExercContaBancaria\ExercContaBancaria\obj\Debug\netcoreapp3.1\ExercContaBancaria.AssemblyInfo.cs
+F:\ws-vs2019\Primeiro\ExercicioContaBancaria\ExercContaBancaria\ExercContaBancaria\obj\Debug\netcoreapp3.1\ExercContaBancaria.csproj.CoreCompileInputs.cache
+F:\ws-vs2019\Primeiro\ExercicioContaBancaria\ExercContaBancaria\ExercContaBancaria\obj\Debug\netcoreapp3.1\ExercContaBancaria.dll
+F:\ws-vs2019\Primeiro\ExercicioContaBancaria\ExercContaBancaria\ExercContaBancaria\obj\Debug\netcoreapp3.1\ExercContaBancaria.pdb
+F:\ws-vs2019\Primeiro\ExercicioContaBancaria\ExercContaBancaria\ExercContaBancaria\obj\Debug\netcoreapp3.1\ExercContaBancaria.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExResolvidoConjutos\ExResolvidoConjutos\bin\Debug\netcoreapp3.1\ExResolvidoConjutos.exe
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExResolvidoConjutos\ExResolvidoConjutos\bin\Debug\netcoreapp3.1\ExResolvidoConjutos.deps.json
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExResolvidoConjutos\ExResolvidoConjutos\bin\Debug\netcoreapp3.1\ExResolvidoConjutos.runtimeconfig.json
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExResolvidoConjutos\ExResolvidoConjutos\bin\Debug\netcoreapp3.1\ExResolvidoConjutos.runtimeconfig.dev.json
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExResolvidoConjutos\ExResolvidoConjutos\bin\Debug\netcoreapp3.1\ExResolvidoConjutos.dll
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExResolvidoConjutos\ExResolvidoConjutos\bin\Debug\netcoreapp3.1\ExResolvidoConjutos.pdb
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExResolvidoConjutos\ExResolvidoConjutos\obj\Debug\netcoreapp3.1\ExResolvidoConjutos.csprojAssemblyReference.cache
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExResolvidoConjutos\ExResolvidoConjutos\obj\Debug\netcoreapp3.1\ExResolvidoConjutos.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExResolvidoConjutos\ExResolvidoConjutos\obj\Debug\netcoreapp3.1\ExResolvidoConjutos.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExResolvidoConjutos\ExResolvidoConjutos\obj\Debug\netcoreapp3.1\ExResolvidoConjutos.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExResolvidoConjutos\ExResolvidoConjutos\obj\Debug\netcoreapp3.1\ExResolvidoConjutos.dll
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExResolvidoConjutos\ExResolvidoConjutos\obj\Debug\netcoreapp3.1\ExResolvidoConjutos.pdb
+C:\Users\Matheus\source\repos\interfaces\interfaces\ExResolvidoConjutos\ExResolvidoConjutos\obj\Debug\netcoreapp3.1\ExResolvidoConjutos.genruntimeconfig.cache

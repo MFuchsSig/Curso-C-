@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcular raiz quadrada", "calcular raiz quadrada\calcular raiz quadrada.csproj", "{2367FA7C-AB65-48CD-96E3-A6E508643575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2367FA7C-AB65-48CD-96E3-A6E508643575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2367FA7C-AB65-48CD-96E3-A6E508643575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2367FA7C-AB65-48CD-96E3-A6E508643575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2367FA7C-AB65-48CD-96E3-A6E508643575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F838F5CA-AF9C-4610-BAC0-4AC631BC3362}
+	EndGlobalSection
+EndGlobal
