@@ -70,6 +70,9 @@ namespace SalesWebMvc.Migrations
                 name: "salesRecords");
 
             migrationBuilder.DropTable(
+               name: "salesRecord");
+
+            migrationBuilder.DropTable(
                 name: "Seller");
         }
     }
